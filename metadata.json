@@ -1,0 +1,6 @@
+{
+  "name": "KRT Logística e Inventário",
+  "description": "Sistema de Gerenciamento de Logística e Inventário para equipe de competição KRT (Baja/Formula SAE) com acompanhamento por caixas, checklist de viagem e integração Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
